@@ -1,11 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 body {
     background-color: lightgray;
-    color:blueviolet;
+    color:lightseagreen ;
 }
 button {
-    color: aquamarine;
-    background-color: black;
+    color: brown;
+    background-color: whitesmoke;
 
+}
+.container {
+
+    background-image: url(assets/hp.jpg);
 }
 @import "~bootstrap/dist/css/bootstrap.css"
